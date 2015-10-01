@@ -29,7 +29,7 @@ namespace Test
 
                 	Console.WriteLine(comm);
 
-			//This is just a test. "Test" is not a working program.
+			
         	}
     
 	}
