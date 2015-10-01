@@ -1,0 +1,6 @@
+C:\Users\HP_x360\documents\visual studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 9. Terrorists Win!\bin\Debug\Problem_9.Terrorists_Win_.exe.config
+C:\Users\HP_x360\documents\visual studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 9. Terrorists Win!\bin\Debug\Problem_9.Terrorists_Win_.exe
+C:\Users\HP_x360\documents\visual studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 9. Terrorists Win!\bin\Debug\Problem_9.Terrorists_Win_.pdb
+C:\Users\HP_x360\documents\visual studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 9. Terrorists Win!\obj\Debug\Problem 9. Terrorists Win!.csprojResolveAssemblyReference.cache
+C:\Users\HP_x360\documents\visual studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 9. Terrorists Win!\obj\Debug\Problem_9.Terrorists_Win_.exe
+C:\Users\HP_x360\documents\visual studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 9. Terrorists Win!\obj\Debug\Problem_9.Terrorists_Win_.pdb

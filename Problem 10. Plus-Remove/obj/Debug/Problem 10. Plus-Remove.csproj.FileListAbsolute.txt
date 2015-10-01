@@ -1,0 +1,6 @@
+C:\Users\HP_x360\documents\visual studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 10. Plus-Remove\bin\Debug\Problem_10.Plus_Remove.exe.config
+C:\Users\HP_x360\Documents\Visual Studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 10. Plus-Remove\bin\Debug\Problem_10.Plus_Remove.exe
+C:\Users\HP_x360\Documents\Visual Studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 10. Plus-Remove\bin\Debug\Problem_10.Plus_Remove.pdb
+C:\Users\HP_x360\Documents\Visual Studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 10. Plus-Remove\obj\Debug\Problem 10. Plus-Remove.csprojResolveAssemblyReference.cache
+C:\Users\HP_x360\Documents\Visual Studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 10. Plus-Remove\obj\Debug\Problem_10.Plus_Remove.exe
+C:\Users\HP_x360\Documents\Visual Studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 10. Plus-Remove\obj\Debug\Problem_10.Plus_Remove.pdb

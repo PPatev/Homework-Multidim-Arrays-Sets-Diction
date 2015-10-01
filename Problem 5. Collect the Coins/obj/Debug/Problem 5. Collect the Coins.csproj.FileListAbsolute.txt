@@ -1,0 +1,6 @@
+C:\Users\HP_x360\documents\visual studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.exe.config
+C:\Users\HP_x360\documents\visual studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.exe
+C:\Users\HP_x360\documents\visual studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.pdb
+C:\Users\HP_x360\documents\visual studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 5. Collect the Coins\obj\Debug\Problem 5. Collect the Coins.csprojResolveAssemblyReference.cache
+C:\Users\HP_x360\documents\visual studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 5. Collect the Coins\obj\Debug\Problem_5.Collect_the_Coins.exe
+C:\Users\HP_x360\documents\visual studio 2013\Projects\Homework Multidim Arrays, Sets, Diction\Problem 5. Collect the Coins\obj\Debug\Problem_5.Collect_the_Coins.pdb
